@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.sect1,
+.sect2 {
+
+    border: 2px solid black;
+    width: 80%;
+    background-color: rgba(113, 156, 185, 0.5);
+    padding: 2rem;
+}
